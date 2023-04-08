@@ -1,0 +1,15 @@
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/controleAcademia.csproj.AssemblyReference.cache
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/controleAcademia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/controleAcademia.AssemblyInfoInputs.cache
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/controleAcademia.AssemblyInfo.cs
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/controleAcademia.csproj.CoreCompileInputs.cache
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/bin/Debug/net7.0/controleAcademia
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/bin/Debug/net7.0/controleAcademia.deps.json
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/bin/Debug/net7.0/controleAcademia.runtimeconfig.json
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/bin/Debug/net7.0/controleAcademia.dll
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/bin/Debug/net7.0/controleAcademia.pdb
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/controleAcademia.dll
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/refint/controleAcademia.dll
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/controleAcademia.pdb
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/controleAcademia.genruntimeconfig.cache
+/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/Debug/net7.0/ref/controleAcademia.dll
