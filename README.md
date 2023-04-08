@@ -33,6 +33,7 @@ Utilize exceptions que façam sentido nas validações.
 ## To Do
 
 - [x] criar gitignore
-- [ ] remover codigo comentado das exceptions movidas 
+- [x] remover codigo comentado das exceptions movidas 
 - [ ] Revisar e padronizar nomeclaturas
 - [ ] Criar testes 
+- [ ] tratar Warnings pendentes
