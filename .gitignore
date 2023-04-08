@@ -1,0 +1,40 @@
+# Arquivos e diretórios gerados pelo .NET Core
+bin/
+obj/
+**/*.user
+**/*.suo
+**/*.cache
+**/*.docstates
+**/*.dll
+**/*.exe
+**/*.pdb
+**/*.mdb
+**/*.swp
+**/*.bak
+**/*.log
+**/*.tlog
+**/*.swm
+**/*.sdf
+**/*.lastbuildstate
+**/*.idb
+**/*.ipch
+**/*.dbmdl
+**/*.jfm
+
+# Arquivos gerados pelo Visual Studio Code
+.vscode/
+
+# Arquivos gerados pelo Visual Studio (versões mais antigas)
+*.csproj.user
+*.sln.user
+*.vshost.*
+
+# Arquivos de log e cache
+*.log
+*.bak
+*.cache
+
+# Outros arquivos e diretórios
+*.pidb
+*.pidb.meta
+.gitattributes
