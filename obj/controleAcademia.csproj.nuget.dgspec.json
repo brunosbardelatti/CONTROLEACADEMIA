@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brunosbardelatti/Projetos/IFC/controleAcademia/controleAcademia.csproj": {}
+    "/Users/brunosbardelatti/Projetos/IFC/ControleAcademia/controleAcademia.csproj": {}
   },
   "projects": {
-    "/Users/brunosbardelatti/Projetos/IFC/controleAcademia/controleAcademia.csproj": {
+    "/Users/brunosbardelatti/Projetos/IFC/ControleAcademia/controleAcademia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brunosbardelatti/Projetos/IFC/controleAcademia/controleAcademia.csproj",
+        "projectUniqueName": "/Users/brunosbardelatti/Projetos/IFC/ControleAcademia/controleAcademia.csproj",
         "projectName": "controleAcademia",
-        "projectPath": "/Users/brunosbardelatti/Projetos/IFC/controleAcademia/controleAcademia.csproj",
+        "projectPath": "/Users/brunosbardelatti/Projetos/IFC/ControleAcademia/controleAcademia.csproj",
         "packagesPath": "/Users/brunosbardelatti/.nuget/packages/",
-        "outputPath": "/Users/brunosbardelatti/Projetos/IFC/controleAcademia/obj/",
+        "outputPath": "/Users/brunosbardelatti/Projetos/IFC/ControleAcademia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/brunosbardelatti/.nuget/NuGet/NuGet.Config"
