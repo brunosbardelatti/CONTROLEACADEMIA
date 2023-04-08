@@ -7,14 +7,6 @@ public class Academia
     private decimal _valorEmCaixa;
     private List<Aluno> _alunos;
 
-    // public Academia(string nome, int vagasDisponiveis, decimal valorEmCaixa)
-    // {
-    //     _vagasDisponiveis = vagasDisponiveis;
-    //     _nome = nome;
-    //     _valorEmCaixa = valorEmCaixa;
-    //     _alunos = new List<Aluno>();
-    // }
-
     public string Nome
     {
         get => _nome;
